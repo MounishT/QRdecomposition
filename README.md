@@ -47,7 +47,7 @@ ans=np.linalg.norm(mat,np.inf)
 norm_of_matrix="{:.2f}".format(ans)
 print(norm_of_matrix)
 
-
+```
 
 
 
